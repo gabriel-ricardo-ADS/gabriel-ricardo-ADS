@@ -1,14 +1,18 @@
 # Gabriel Ricardo💻
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F72A&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Specialist+in+Training;Software+Development+Student;Python+%7C+Java+%7C+Data+%7C+Systems+Engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F72A&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Specialist+in+Training;Software+Development+Student;Python+%7C+Java+%7C+Systems+Engineering"/>
 </p>
+
+---
+
+## Professional Introduction
 
 I am a student of Analysis and Systems Development focused on building a career as a specialist in Artificial Intelligence and modern software systems.
 
-My academic and personal projects are focused on developing strong foundations in programming, system design, and data-driven technologies.
+My academic journey is centered on developing strong foundations in programming, software engineering, data analysis, and system design. I am continuously studying and building projects that strengthen my technical knowledge and practical development experience.
 
-Currently I am developing skills in Python and Java while studying the essential areas required to build scalable software systems, including software engineering, front-end and back-end development, and database systems.
+My objective is to contribute to projects involving intelligent systems, scalable software architecture, and data-driven technologies.
 
 ---
 
@@ -16,25 +20,25 @@ Currently I am developing skills in Python and Java while studying the essential
 
 Analysis and Systems Development (ADS)
 
-Areas of study include:
+Main areas of study:
 
-- Python programming
-- Java programming
-- Software Engineering
-- Front-end development
-- Back-end development
-- Database systems
-- Data processing and analysis
+• Python programming  
+• Java programming  
+• Software Engineering  
+• Front-end development  
+• Back-end development  
+• Database systems  
+• Data processing and analysis  
 
 ---
 
-## Technologies
+## Technologies and Languages
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Software%20Engineering-6DB33F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Backend-00599C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Frontend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -44,11 +48,15 @@ Areas of study include:
 
 ---
 
-## Current Focus
+## Development Tools
 
-I am continuously building projects that strengthen my programming skills and deepen my understanding of software architecture and artificial intelligence systems.
+<p align="center">
 
-This GitHub profile is used to store projects, experiments, and exercises developed during my academic journey and independent studies.
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+</p>
 
 ---
 
@@ -61,4 +69,13 @@ This GitHub profile is used to store projects, experiments, and exercises develo
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=dark"/>
 
 </p>
+
+---
+
+## Current Focus
+
+I am continuously developing projects that strengthen my programming skills and deepen my understanding of software architecture and artificial intelligence systems.
+
+This GitHub profile is used to store projects, experiments, and exercises developed during my academic journey and independent studies.
+
 
