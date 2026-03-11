@@ -1,4 +1,4 @@
-# Gabriel Ricardo
+# Gabriel Ricardo💻
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F72A&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Specialist+in+Training;Software+Development+Student;Python+%7C+Java+%7C+Data+%7C+Systems+Engineering" />
