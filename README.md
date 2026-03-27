@@ -68,9 +68,9 @@ Main areas of study:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabriel-ricardo-ADS&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark&hide_border=true&cache_seconds=86400"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ricardo-ADS&layout=compact&theme=dark&hide_border=true&cache_seconds=86400"/>
 
 </p>
 
