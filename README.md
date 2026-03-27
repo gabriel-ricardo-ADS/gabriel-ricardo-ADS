@@ -82,15 +82,6 @@ Main areas of study:
 </p>
 
 ---
-## Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/gabriel-ricardo-ADS/gabriel-ricardo-ADS/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
 ## Current Focus
 
 I am continuously developing projects that strengthen my programming skills and deepen my understanding of software architecture and artificial intelligence systems.
