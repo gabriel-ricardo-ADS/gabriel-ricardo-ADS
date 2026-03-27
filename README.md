@@ -73,7 +73,15 @@ Main areas of study:
 </p>
 
 ---
+## Contribution Graph
 
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-ricardo-ADS&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
 ## Current Focus
 
 I am continuously developing projects that strengthen my programming skills and deepen my understanding of software architecture and artificial intelligence systems.
