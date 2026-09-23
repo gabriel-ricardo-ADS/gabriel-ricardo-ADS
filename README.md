@@ -5,8 +5,6 @@
 ### Data & Analytics Intern @ DataEx | ADS @ FIAP
 
 **Data · Analytics · Python · SQL · Artificial Intelligence · Software Development**
-
-<br>
 </div>
 
 ---
