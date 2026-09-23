@@ -7,11 +7,6 @@
 **Data · Analytics · Python · SQL · Artificial Intelligence · Software Development**
 
 <br>
-
-<a href="https://www.linkedin.com/in/gabriel-ricardo-lima/">
-  <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Ricardo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
 </div>
 
 ---
