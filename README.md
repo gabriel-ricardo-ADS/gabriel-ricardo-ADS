@@ -1,4 +1,4 @@
-# Gabriel Ricardo 👨‍💻
+# Gabriel Ricardo 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00F72A&center=true&vCenter=true&width=700&lines=Data+%26+Analytics+Intern+%40+DataEx;Analysis+and+Systems+Development+Student;Python+%7C+Data+%7C+AI+%7C+Software+Development;Building+technology+through+real-world+projects"/>
