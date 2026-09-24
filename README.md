@@ -2,9 +2,18 @@
 
 # Gabriel Ricardo
 
-### Data & Analytics Intern @ DataEx | ADS @ FIAP
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3200&pause=900&color=00C2FF&center=true&vCenter=true&width=720&lines=Data+%26+Analytics+Intern+%40+DataEx;Analysis+and+Systems+Development+%40+FIAP;Data+Engineering+%7C+Analytics+%7C+Artificial+Intelligence;Python+%7C+SQL+%7C+PySpark+%7C+Fabric+%7C+Power+BI" alt="Typing SVG" />
 
-**Data · Analytics · Python · SQL · Artificial Intelligence · Software Development**
+<br>
+
+**Data · Analytics · Artificial Intelligence · Software Development**
+
+<br>
+
+<a href="https://www.linkedin.com/in/gabriel-ricardo-lima/">
+  <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Ricardo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
 </div>
 
 ---
@@ -94,12 +103,26 @@ Supporting a collaborative software project through **Pull Request reviews, issu
 
 ## 🚀 Selected Projects
 
-| Project                                                                                              | Description                                                                                                                                                     | Main Stack                                  |
-| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| **[Bank Statement Automation](https://github.com/gabriel-ricardo-ADS/automacao_extratos_bancarios)** | Automation solution that converts bank statements into structured accounting spreadsheets, including layout detection, financial reconciliation and validation. | `Python` `PySide6` `PyMuPDF` `openpyxl`     |
-| **[Accessible Places & Services Portal](https://github.com/1TDSPF-26/portal-locais-acessiveis)**     | Collaborative FIAP project where I act as **Tech Lead**, supporting architecture, development workflow, PR reviews and integration.                             | `React` `TypeScript` `Tailwind` `REST APIs` |
-| **[OrbitAgro Copilot](https://github.com/gabriel-ricardo-ADS/orbitagroCopilot)**                     | Interactive agricultural technology project combining environmental data, external APIs and rich web experiences.                                               | `JavaScript` `APIs` `WebGL` `HTML` `CSS`    |
-| **[Codenames Python](https://github.com/gabriel-ricardo-ADS/Codenames-Python)**                      | Collaborative implementation of the Codenames board game focused on modular programming, game logic and team development.                                       | `Python` `Git` `GitHub`                     |
+| Project | Description | Main Stack |
+|---|---|---|
+| **[Bank Statement Automation](https://github.com/gabriel-ricardo-ADS/automacao_extratos_bancarios)** | Automation solution that converts bank statements into structured accounting spreadsheets, including layout detection, financial reconciliation and validation. | `Python` `PySide6` `PyMuPDF` `openpyxl` |
+| **[Accessible Places & Services Portal](https://github.com/1TDSPF-26/portal-locais-acessiveis)** | Collaborative FIAP project where I act as **Tech Lead**, supporting architecture, development workflow, PR reviews and integration. | `React` `TypeScript` `Tailwind` `REST APIs` |
+| **[OrbitAgro Copilot](https://github.com/gabriel-ricardo-ADS/orbitagroCopilot)** | Interactive agricultural technology project combining environmental data, external APIs and rich web experiences. | `JavaScript` `APIs` `WebGL` `HTML` `CSS` |
+| **[Codenames Python](https://github.com/gabriel-ricardo-ADS/Codenames-Python)** | Collaborative implementation of the Codenames board game focused on modular programming, game logic and team development. | `Python` `Git` `GitHub` |
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=gabriel-ricardo-ADS&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-ricardo-ADS&theme=github-compact&hide_border=true&radius=10" alt="Contribution Graph"/>
+
+</div>
 
 ---
 
@@ -119,13 +142,13 @@ Developing knowledge across:
 
 My current learning and professional development are centered around:
 
-**Data Engineering & Analytics**
+**Data Engineering & Analytics**  
 Microsoft Fabric · Azure · Spark · PySpark · Power BI · SQL
 
-**Artificial Intelligence**
+**Artificial Intelligence**  
 LLMs · AI-assisted applications · automation · data processing
 
-**Software Engineering**
+**Software Engineering**  
 Python · APIs · architecture · collaborative development · Git/GitHub
 
 My long-term goal is to build a strong career at the intersection of **Data, Artificial Intelligence and Software Engineering**, contributing to increasingly complex projects and international technology environments.
@@ -134,7 +157,7 @@ My long-term goal is to build a strong career at the intersection of **Data, Art
 
 ## 🌎 Languages
 
-🇧🇷 **Portuguese** — Native
+🇧🇷 **Portuguese** — Native  
 🇺🇸 **English** — Advanced
 
 ---
